@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\controllers\\getuserprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\controllers\\getuserprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\controllers\\useraccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\controllers\\useraccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\modelclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\modelclasses\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\modelclasses\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\modelclasses\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\modelclasses\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\modelclasses\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\controllers\\sendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\controllers\\sendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\modelclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\modelclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\migrations\\20250430131707_jwtmigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\migrations\\20250430131707_jwtmigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Migrations\\20250430131120_jwtmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jwt_CURD_Operation\\Migrations\\20250430131120_jwtmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|c:\\users\\abhishek kamble\\source\\repos\\jwt_curd_operation\\jwt_curd_operation\\migrations\\20250430130948_jwtapicurd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004439A4-F8A5-49B8-93F5-9EE5D194B389}|Jwt_CURD_Operation\\Jwt_CURD_Operation.csproj|solutionrelative:jwt_curd_operation\\migrations\\20250430130948_jwtapicurd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\GetUserProfileController.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Controllers\\GetUserProfileController.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\GetUserProfileController.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Controllers\\GetUserProfileController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:19:42.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SendController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\SendController.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Controllers\\SendController.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\SendController.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Controllers\\SendController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:06:02.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:46:56.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userAccessController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\userAccessController.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Controllers\\userAccessController.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\userAccessController.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Controllers\\userAccessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:47:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\appsettings.json",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\appsettings.json",
+              "RelativeToolTip": "Jwt_CURD_Operation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T10:41:27.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Program.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Program.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Program.cs*",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:57:14.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\User.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\ModelClasses\\User.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\User.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\ModelClasses\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:02:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbcontex.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\AppDbcontex.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\ModelClasses\\AppDbcontex.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\AppDbcontex.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\ModelClasses\\AppDbcontex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:04:02.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\AuthService.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\ModelClasses\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\AuthService.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\ModelClasses\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T07:12:00.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\Product.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\ModelClasses\\Product.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\ModelClasses\\Product.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\ModelClasses\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:53:51.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T07:44:12.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250430131707_jwtmigration1.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Migrations\\20250430131707_jwtmigration1.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Migrations\\20250430131707_jwtmigration1.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Migrations\\20250430131707_jwtmigration1.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Migrations\\20250430131707_jwtmigration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:17:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250430131120_jwtmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Migrations\\20250430131120_jwtmigration.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Migrations\\20250430131120_jwtmigration.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Migrations\\20250430131120_jwtmigration.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Migrations\\20250430131120_jwtmigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:11:20.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250430130948_jwtapicurd.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Migrations\\20250430130948_jwtapicurd.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Migrations\\20250430130948_jwtapicurd.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Migrations\\20250430130948_jwtapicurd.cs",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Migrations\\20250430130948_jwtapicurd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:09:48.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Jwt_CURD_Operation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Abhishek kamble\\source\\repos\\Jwt_CURD_Operation\\Jwt_CURD_Operation\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "Jwt_CURD_Operation\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:23:00.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

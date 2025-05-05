@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "iDoUfrzZWIuKjMgG6VIfErCLh0N9GKRZYj9KHrMcH0A=",
+  "Source": "Jwt_CURD_Operation",
+  "BasePath": "_content/Jwt_CURD_Operation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jwt_CURD_Operation.props" />
+</Project>
